@@ -65,7 +65,7 @@
 ### 🔗 Connect With Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iadityasingh2468@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-singh-027225321/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](my-portfolio-cskp39maw-aditya-singhs-projects-1d66a3fb.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfolio-cskp39maw-aditya-singhs-projects-1d66a3fb.vercel.app)
 
 ---
 
